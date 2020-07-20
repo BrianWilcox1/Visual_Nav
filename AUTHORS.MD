@@ -3,4 +3,4 @@
 * Stephen Hagen (hagen.s@husky.neu.edu)
 * Antonio Rufo (rufo.a@husky.neu.edu)
 * Larry Thul (larry.thul@gmail.com)
-* Brian Wilcox (wilcox.b@husky.neu.edu)
+* Brian Wilcox (brianwilcoxca@gmail.com)
